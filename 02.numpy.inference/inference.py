@@ -1,5 +1,5 @@
 import numpy as np
-import model as m1
+import np_model_1 as m1
 
 path_dataset = [
     '../01.tensorflow.train/data/dataset/mnist_train_data_60000x784.npy',
